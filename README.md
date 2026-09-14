@@ -3,7 +3,6 @@
 
 Este repositório contém os arquivos de modelagem, código-fonte e artefatos utilizados no desenvolvimento de uma **fresadora CNC de pequeno porte**, criada para a fabricação de **antenas planares** e **circuitos impressos (PCIs)** em ambiente acadêmico. O projeto foi desenvolvido como Trabalho de Conclusão de Curso no **Instituto Federal de Santa Catarina (IFSC) -- Câmpus São José**.
 
-
 ## Objetivo do Projeto
 
 Construir uma fresadora CNC acessível, utilizando componentes de **baixo
@@ -33,6 +32,8 @@ custo**, **fácil aquisição** e **plataformas abertas**, permitindo:
 ## Documentação Completa
 
 O documento completo do projeto, incluindo modelagem, lista
-de materiais, testes, cálculos e guia de operação, está disponível no
-PDF da monografia (em breve será anexado aqui).
+de materiais, testes, cálculos e guia de operação, está disponível em [TCC_DESENVOLVIMENTO_FRESADORA_CNC](https://repositorio.ifsc.edu.br/items/885bb8a0-5da8-42db-98ac-e9bbe950c8d6).
 
+## Imagens e vídeos
+
+Imagens e vídeos extras do processo de construção estão diponível em [Imagens](./imagens/)
